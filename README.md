@@ -142,4 +142,3 @@ claiming full NSE coverage. For a smaller, faster worker replace `nse` with
 `nifty500`. Some cloud worker filesystems are ephemeral, including the report
 and Telegram deduplication SQLite files; use persistent storage if you need
 alerts to remain deduplicated across deployments or restarts.
-"# intradayscanner" 

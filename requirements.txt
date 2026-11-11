@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+requests>=2.31,<3
+yfinance>=0.2.65,<2
+pytest>=8,<10
